@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaseCore", "QaseCore\QaseCore.csproj", "{4FBC0230-E064-4EDC-A84F-7BE96FF9A6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaseServices", "QaseServices\QaseServices.csproj", "{D39B6B74-4AAE-4E56-BF4E-8D66929EB6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaseTests", "QaseTests\QaseTests.csproj", "{5C8C20A6-A570-4661-A452-4E2760F16303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBC0230-E064-4EDC-A84F-7BE96FF9A6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBC0230-E064-4EDC-A84F-7BE96FF9A6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBC0230-E064-4EDC-A84F-7BE96FF9A6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBC0230-E064-4EDC-A84F-7BE96FF9A6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39B6B74-4AAE-4E56-BF4E-8D66929EB6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39B6B74-4AAE-4E56-BF4E-8D66929EB6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39B6B74-4AAE-4E56-BF4E-8D66929EB6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39B6B74-4AAE-4E56-BF4E-8D66929EB6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8C20A6-A570-4661-A452-4E2760F16303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8C20A6-A570-4661-A452-4E2760F16303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8C20A6-A570-4661-A452-4E2760F16303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8C20A6-A570-4661-A452-4E2760F16303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
